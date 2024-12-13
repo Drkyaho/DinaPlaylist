@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DinaPlaylist</string>
+    <string name="back_button_text">Kembali</string>
+    <string name="artist_hint">Artis</string>
+    <string name="title_hint">Judul Lagu</string>
+    <string name="recommendation_title">Berikan Rekomendasi Lagu Kesukaanmu</string>
+    <string name="song_title_hint">Judul Lagu</string>
+    <string name="artist_name_hint">Nama Artist</string>
+    <string name="youtube_link_hint">Link Youtube</string>
+    <string name="add_song">Tambah Lagu</string>
+    <string name="view_songs">Lihat Lagu</string>
+</resources>

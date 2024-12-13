@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "52634951597",
+    "project_id": "dinaplaylist-b241f",
+    "storage_bucket": "dinaplaylist-b241f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52634951597:android:b047fed6e037a335bd0b24",
+        "android_client_info": {
+          "package_name": "com.example.dinaplaylist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb_ZkcaSJ8eKBWm2EgdhgAV0K0q0Y_7AQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

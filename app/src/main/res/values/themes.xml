@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.DinaPlaylist" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.DinaPlaylist" parent="Base.Theme.DinaPlaylist" />
+
+
+        <!-- Style untuk hint TextInputLayout -->
+        <style name="TextInputLayoutHint" parent="TextAppearance.AppCompat.Small">
+            <item name="android:textColor">#FF6200EE</item> <!-- Sesuaikan warna -->
+            <item name="android:textSize">14sp</item>
+        </style>
+
+</resources>

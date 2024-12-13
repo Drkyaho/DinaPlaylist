@@ -1,0 +1,37 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/etTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Song Title"
+        android:minHeight="48dp" />
+
+    <EditText
+        android:id="@+id/etArtist"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Artist"
+        android:minHeight="48dp" />
+
+    <EditText
+        android:id="@+id/etYoutubeLink"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="YouTube Link"
+        android:minHeight="48dp" />
+
+    <Button
+        android:id="@+id/btnUpdateSong"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Update Song"
+        android:backgroundTint="#FF6200EE"
+        android:textColor="#FFFFFF"
+        android:layout_marginTop="16dp" />
+</LinearLayout>
